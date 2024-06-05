@@ -1,0 +1,17 @@
+{
+  "name": "i18ncheckbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i18next": "^23.11.5",
+    "i18next-chained-backend": "^4.6.2",
+    "i18next-fs-backend": "^2.3.1",
+    "i18next-http-backend": "^2.5.2"
+  }
+}
